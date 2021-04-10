@@ -1,0 +1,14 @@
+
+webresources/
+
+packages/
+
+obj/
+
+bin/
+
+.vs/
+
+app.config
+
+packages.config
